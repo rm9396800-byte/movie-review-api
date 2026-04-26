@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "deadpool (personal fav)",
+    "year": 20016,
+    "genre": "Action/comedy"
+  },
+  {
+    "id": 2,
+    "title": "Novacane",
+    "year": 2001,
+    "genre": "Comedy"
+  },
+  {
+    "id": 3,
+    "title": "High Fidelity",
+    "year": 2000,
+    "genre": "Comedy/Drama"
+  },
+  {
+    "id": 4,
+    "title": "The Girl Next Door",
+    "year": 2004,
+    "genre": "Comedy/Romance"
+  }
+]
